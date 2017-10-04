@@ -1,9 +1,7 @@
 # odd-index
 Returns an array with items oddly indexed
 
-![npm](https://img.shields.io/npm/v/odd-index.svg) ![license](https://img.shields.io/npm/l/odd-index.svg) ![github-issues](https://img.shields.io/github/issues/Prosen-Ghosh/odd-index.svg) 
-
-![nodei.co](https://nodei.co/npm/odd-index.png?downloads=true&downloadRank=true&stars=true)
+![npm](https://img.shields.io/npm/v/odd-index.svg) ![license](https://img.shields.io/npm/l/odd-index.svg) ![github-issues](https://img.shields.io/github/issues/Prosen-Ghosh/odd-index.svg)
 
 ![travis-status](https://img.shields.io/travis/Prosen-Ghosh/odd-index.svg)
 ![stars](https://img.shields.io/github/stars/Prosen-Ghosh/odd-index.svg)
@@ -26,7 +24,7 @@ Returns an array with items oddly indexed
 
 #### For Production
 ```js
-<script src="https://cdn.rawgit.com/Prosen-Ghosh/odd-index/7287cb78/odd-index.js"></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/odd-index/737cb365/odd-index.js"></script>
 ```
 
 ## Usage
