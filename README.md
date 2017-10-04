@@ -21,12 +21,12 @@ Returns an array with items oddly indexed
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/odd-index/master/odd-index.js"></script>
 ```
 
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/odd-index/7287cb78/odd-index.js"></script>
 ```
 
 ## Usage
