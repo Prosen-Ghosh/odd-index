@@ -59,6 +59,9 @@ oddIndex(["foo","bar","baz","bob",[1,2],{a : 10},100,function(){}]);
 oddIndex(); // without parameter thid function will throw a type error
 //=> TypeError: expect an array got undefined
 
+oddIndex({}); // this function only takes array argument
+//=> TypeError: expect an array got object
+
 ```
 
 ## Author

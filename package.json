@@ -1,6 +1,6 @@
 {
   "name": "odd-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns an array with items oddly indexed",
   "main": "odd-index.js",
   "directories": {
